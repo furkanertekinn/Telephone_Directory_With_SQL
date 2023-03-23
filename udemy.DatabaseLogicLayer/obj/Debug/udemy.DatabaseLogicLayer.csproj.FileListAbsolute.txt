@@ -1,0 +1,9 @@
+C:\Users\Furkan\source\repos\udemy\udemy.DatabaseLogicLayer\bin\Debug\udemy.DatabaseLogicLayer.dll
+C:\Users\Furkan\source\repos\udemy\udemy.DatabaseLogicLayer\bin\Debug\udemy.DatabaseLogicLayer.pdb
+C:\Users\Furkan\source\repos\udemy\udemy.DatabaseLogicLayer\bin\Debug\udemy.Entities.dll
+C:\Users\Furkan\source\repos\udemy\udemy.DatabaseLogicLayer\bin\Debug\udemy.Entities.pdb
+C:\Users\Furkan\source\repos\udemy\udemy.DatabaseLogicLayer\obj\Debug\udemy.DatabaseLogicLayer.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\udemy\udemy.DatabaseLogicLayer\obj\Debug\udemy.DatabaseLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\udemy\udemy.DatabaseLogicLayer\obj\Debug\udemy.DatabaseLogicLayer.csproj.CopyComplete
+C:\Users\Furkan\source\repos\udemy\udemy.DatabaseLogicLayer\obj\Debug\udemy.DatabaseLogicLayer.dll
+C:\Users\Furkan\source\repos\udemy\udemy.DatabaseLogicLayer\obj\Debug\udemy.DatabaseLogicLayer.pdb

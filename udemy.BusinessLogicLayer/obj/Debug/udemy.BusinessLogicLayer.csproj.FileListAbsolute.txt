@@ -1,0 +1,11 @@
+C:\Users\Furkan\source\repos\udemy\udemy.BusinessLogicLayer\bin\Debug\udemy.BusinessLogicLayer.dll
+C:\Users\Furkan\source\repos\udemy\udemy.BusinessLogicLayer\bin\Debug\udemy.BusinessLogicLayer.pdb
+C:\Users\Furkan\source\repos\udemy\udemy.BusinessLogicLayer\bin\Debug\udemy.DatabaseLogicLayer.dll
+C:\Users\Furkan\source\repos\udemy\udemy.BusinessLogicLayer\bin\Debug\udemy.Entities.dll
+C:\Users\Furkan\source\repos\udemy\udemy.BusinessLogicLayer\bin\Debug\udemy.DatabaseLogicLayer.pdb
+C:\Users\Furkan\source\repos\udemy\udemy.BusinessLogicLayer\bin\Debug\udemy.Entities.pdb
+C:\Users\Furkan\source\repos\udemy\udemy.BusinessLogicLayer\obj\Debug\udemy.BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\udemy\udemy.BusinessLogicLayer\obj\Debug\udemy.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\udemy\udemy.BusinessLogicLayer\obj\Debug\udemy.BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Furkan\source\repos\udemy\udemy.BusinessLogicLayer\obj\Debug\udemy.BusinessLogicLayer.dll
+C:\Users\Furkan\source\repos\udemy\udemy.BusinessLogicLayer\obj\Debug\udemy.BusinessLogicLayer.pdb

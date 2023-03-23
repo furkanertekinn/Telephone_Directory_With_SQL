@@ -1,0 +1,6 @@
+C:\Users\Furkan\source\repos\udemy\udemy.Entities\bin\Debug\udemy.Entities.dll
+C:\Users\Furkan\source\repos\udemy\udemy.Entities\bin\Debug\udemy.Entities.pdb
+C:\Users\Furkan\source\repos\udemy\udemy.Entities\obj\Debug\udemy.Entities.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\udemy\udemy.Entities\obj\Debug\udemy.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\udemy\udemy.Entities\obj\Debug\udemy.Entities.dll
+C:\Users\Furkan\source\repos\udemy\udemy.Entities\obj\Debug\udemy.Entities.pdb
