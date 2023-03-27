@@ -61,10 +61,10 @@ namespace udemy.TelefonRehberi
                 txt_g_telefonI.Text = SecilenKayit.TelefonNumarasiI;
                 txt_g_telefonII.Text = SecilenKayit.TelefonNumarasiII;
                 txt_g_telefonIII.Text = SecilenKayit.TelefonNumarasiIII;
-                txt_y_emailadres.Text = SecilenKayit.EmailAdres;
+                txt_g_emailadres.Text = SecilenKayit.EmailAdres;
                 txt_g_webadres.Text = SecilenKayit.WebAdres;
-                txt_y_adres.Text = SecilenKayit.Adres;
-                txt_y_aciklama.Text = SecilenKayit.Aciklama;
+                txt_g_adres.Text = SecilenKayit.Adres;
+                txt_g_aciklama.Text = SecilenKayit.Aciklama;
             }
         }
 
